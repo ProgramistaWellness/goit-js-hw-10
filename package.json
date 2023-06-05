@@ -15,7 +15,7 @@
   "author": "Oskar Przybysz <wellnessinstructor.oskar@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/goitacademy/parcel-project-template/issues"
+    "url": "https://github.com/programistawellness/goit-js-hw-09.git/issues"
   },
   "dependencies": {
     "flatpickr": "^4.6.13",
